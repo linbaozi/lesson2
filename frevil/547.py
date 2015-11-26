@@ -21,6 +21,5 @@ while(1):
 		print()
 	import os
 	os.system('cls')
-	k1=k1+1
-	k1=k1%40
+	k1=(k1+1)%40
 input()
